@@ -1,0 +1,14 @@
+/home/kai/Desktop/workspace/Capgemini-Training/App/bin/Debug/net8.0/App
+/home/kai/Desktop/workspace/Capgemini-Training/App/bin/Debug/net8.0/App.deps.json
+/home/kai/Desktop/workspace/Capgemini-Training/App/bin/Debug/net8.0/App.runtimeconfig.json
+/home/kai/Desktop/workspace/Capgemini-Training/App/bin/Debug/net8.0/App.dll
+/home/kai/Desktop/workspace/Capgemini-Training/App/bin/Debug/net8.0/App.pdb
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.AssemblyInfoInputs.cache
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.AssemblyInfo.cs
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.csproj.CoreCompileInputs.cache
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.dll
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/refint/App.dll
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.pdb
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/App.genruntimeconfig.cache
+/home/kai/Desktop/workspace/Capgemini-Training/App/obj/Debug/net8.0/ref/App.dll
