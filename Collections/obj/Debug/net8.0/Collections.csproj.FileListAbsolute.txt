@@ -1,0 +1,15 @@
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\bin\Debug\net8.0\Collections.exe
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\bin\Debug\net8.0\Collections.deps.json
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\bin\Debug\net8.0\Collections.dll
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\bin\Debug\net8.0\Collections.pdb
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.sourcelink.json
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.dll
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\refint\Collections.dll
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.pdb
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+C:\Users\jkumar20\Desktop\Training\Dotnet\Collections\obj\Debug\net8.0\ref\Collections.dll
