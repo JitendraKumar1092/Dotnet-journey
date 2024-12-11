@@ -16,11 +16,13 @@ namespace DelegateDemo
         }
         public int Subtract(int num1, int num2)
         {
+            // sub method
+
             int result = num1 - num2;
             Console.WriteLine("Subtract is {0}", result);
             return result;
         }
 
-      
+
     }
 }
